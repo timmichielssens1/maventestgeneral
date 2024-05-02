@@ -1,0 +1,3 @@
+java:
+  maven:
+    pom: pom.xml
